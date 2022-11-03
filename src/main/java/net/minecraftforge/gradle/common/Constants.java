@@ -47,9 +47,9 @@ public class Constants {
     };
 
     // urls
-    public static final String MC_JSON_URL = "https://s3.amazonaws.com/Minecraft.Download/versions/{MC_VERSION}/{MC_VERSION}.json";
-    public static final String MC_JAR_URL = "https://s3.amazonaws.com/Minecraft.Download/versions/{MC_VERSION}/{MC_VERSION}.jar";
-    public static final String MC_SERVER_URL = "https://s3.amazonaws.com/Minecraft.Download/versions/{MC_VERSION}/minecraft_server.{MC_VERSION}.jar";
+    public static final String MC_JSON_URL = "https://files.thorfusion.com/versions/{MC_VERSION}/{MC_VERSION}.json";
+    public static final String MC_JAR_URL = "https://files.thorfusion.com/versions/{MC_VERSION}/{MC_VERSION}.jar";
+    public static final String MC_SERVER_URL = "https://files.thorfusion.com/versions/{MC_VERSION}/minecraft_server.{MC_VERSION}.jar";
     public static final String MCP_URL = "https://files.minecraftforge.net/fernflower-fix-1.0.zip";
     public static final String ASSETS_URL = "https://resources.download.minecraft.net";
     public static final String LIBRARY_URL = "https://libraries.minecraft.net/";
